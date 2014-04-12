@@ -2,12 +2,15 @@
 layout: page
 title: About
 ---
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus neque, fermentum eget pellentesque in, ultricies vitae ligula. Nulla non nunc ac libero semper pellentesque. Nam tincidunt felis vel neque feugiat, porttitor dignissim leo sollicitudin. <span class="suspicious">Curabitur fringilla ipsum arcu, vitae cursus elit posuere eget. Vestibulum id consequat neque, in feugiat lacus.</span> Vivamus id quam vitae orci facilisis vestibulum. Vestibulum eleifend nulla eu orci vulputate ullamcorper. Nullam tempor leo nec lacus gravida vulputate. Pellentesque tristique faucibus augue, sit amet venenatis nunc lobortis ut. Aenean molestie facilisis dui sed vulputate.
+Ten Tenths is a consulting vehicle for Paul Butcher ([LinkedIn](http://uk.linkedin.com/in/paulbutcher/), [Twitter](https://twitter.com/paulrabutcher), [Blog](http://paulbutcher.com), [GitHub](https://github.com/paulbutcher)).
 
-  Phasellus pretium nisl vitae est pretium volutpat. Quisque sit amet est in lacus tempor rutrum. <span class="suspicious">Nam nec ornare est, a blandit sapien.</span> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque vel quam dapibus, pellentesque lectus sit amet, porta justo. Aenean non commodo tortor. Nulla vitae volutpat tellus, quis semper justo. Aenean eget laoreet nisi, in tincidunt nibh. Sed eu vulputate libero.
+Paul is a veteran of technology startups and author of software engineering textbooks ([Amazon](http://amazon.com/author/paulbutcher)). He was Chief Software Architect of [SwiftKey](http://swiftkey.net), Chief Technical Officer of [Texperts](http://en.wikipedia.org/wiki/Texperts) and Chief Technical Officer of [Smartner](http://www.theregister.co.uk/2005/04/11/seven_smartner/).
 
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque id dui purus. Nullam tempor nisl eget facilisis adipiscing. Mauris sollicitudin purus id metus bibendum ornare in ut <span class="struckout">turpis</span><span class="replaced">congue</span>. Fusce quis dui consectetur, sagittis nulla quis, congue eros. Curabitur non turpis rhoncus, pulvinar est in, tincidunt tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique sed dui nec semper. Aliquam et nunc ut magna viverra vestibulum. Ut id ipsum nisi. Praesent neque augue, euismod accumsan dapibus eu, posuere tincidunt nulla. Curabitur commodo bibendum dui, et elementum neque placerat ac.
+Ten Tenths specializes in consultancy for startups, in particular:
 
-  Proin porttitor libero eget felis auctor, vel volutpat est imperdiet. Aliquam aliquam sed erat non faucibus. Vivamus sit amet nisl ornare, vestibulum enim a, dignissim diam. Sed congue mauris eu eleifend ullamcorper. Suspendisse feugiat, est ut condimentum commodo, ipsum odio semper urna, nec egestas metus mauris non massa. In odio mauris, fermentum vel tempor at, congue sit amet orci. Nunc odio nisl, aliquam quis laoreet ac, consequat consequat turpis.
+* Building a development team, putting an appropriate development process in place and defining an appropriate architecture.
+* Due-dilligence (both preparing for it, and carrying it out).
+* Interim CTO/Chief Software Architect.
+* Concurrency, parallelism, and big data (Scala, Clojure, Hadoop, Storm, …).
 
-  Aliquam id purus pharetra, pretium risus vel, tempor nunc. Integer eget rhoncus ipsum, sed viverra enim. Ut et viverra augue. Nam faucibus tincidunt mi sed mattis. Pellentesque viverra placerat nunc, in rutrum libero feugiat eu. Mauris vel sapien orci. Pellentesque dignissim accumsan diam eu pellentesque. Suspendisse auctor eleifend libero, eu tempus est sollicitudin sit amet.
+Paul can be contacted at [paul@paulbutcher.com](mailto:paul@paulbutcher.com).
