@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus neque, fermentum eget pellentesque in, ultricies vitae ligula. Nulla non nunc ac libero semper pellentesque. Nam tincidunt felis vel neque feugiat, porttitor dignissim leo sollicitudin. <span class="suspicious">Curabitur fringilla ipsum arcu, vitae cursus elit posuere eget. Vestibulum id consequat neque, in feugiat lacus.</span> Vivamus id quam vitae orci facilisis vestibulum. Vestibulum eleifend nulla eu orci vulputate ullamcorper. Nullam tempor leo nec lacus gravida vulputate. Pellentesque tristique faucibus augue, sit amet venenatis nunc lobortis ut. Aenean molestie facilisis dui sed vulputate.
 
