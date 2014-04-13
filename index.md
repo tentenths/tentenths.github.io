@@ -13,4 +13,4 @@ Ten Tenths specializes in consultancy for startups and investors, in particular:
 * Interim CTO/Chief Software Architect.
 * Concurrency, parallelism, and big data (Scala, Clojure, Hadoop, Storm, …).
 
-Paul can be contacted at [paul@paulbutcher.com](mailto:paul@paulbutcher.com).
+Paul can be contacted at [paul@tententhsconsulting.com](mailto:paul@tententhsconsulting.com).
