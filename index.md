@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Ten Tenths Consulting
 ---
 Ten Tenths is a consulting vehicle for Paul Butcher ([LinkedIn](http://uk.linkedin.com/in/paulbutcher/), [Twitter](https://twitter.com/paulrabutcher), [Blog](http://paulbutcher.com), [GitHub](https://github.com/paulbutcher)).
 
