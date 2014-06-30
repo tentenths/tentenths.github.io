@@ -9,7 +9,7 @@ Paul is a veteran of technology startups and author of software engineering text
 Ten Tenths specializes in consultancy for startups and investors, in particular:
 
 * Building a development team, putting an appropriate development process in place and defining an appropriate architecture.
-* Due-dilligence (both preparing for it, and carrying it out).
+* Due-diligence (both preparing for it, and carrying it out).
 * Interim CTO/Chief Software Architect.
 * Concurrency, parallelism, and big data (Scala, Clojure, Hadoop, Storm, …).
 
