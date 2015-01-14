@@ -1,4 +1,4 @@
 name: Ten Tenths Consulting
 markdown: redcarpet
-pygments: true
+highligher: pygments
 description: Ten Tenths Consulting
