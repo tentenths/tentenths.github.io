@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'tex_gyre_bonumregular';
+    src: url('/fonts/texgyrebonum-regular-webfont.woff') format('woff');
+}
+
+body {
+  font-family: 'tex_gyre_bonumregular', Fallback, serif;
+}
+
 .header {
   margin-top: 40px;
   margin-bottom: 40px;
