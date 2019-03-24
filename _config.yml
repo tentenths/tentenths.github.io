@@ -1,4 +1,3 @@
-name: Ten Tenths Consulting
-markdown: redcarpet
-highligher: pygments
+title: Ten Tenths Consulting
+markdown: kramdown
 description: Ten Tenths Consulting
